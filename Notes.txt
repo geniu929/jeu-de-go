@@ -1,0 +1,2 @@
+*Pour complier, il suffit dee taper make dans la répertoire src.
+* *Pour exécuter, on tape ./Go dans la méme repertoire.
